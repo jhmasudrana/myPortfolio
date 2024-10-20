@@ -20,10 +20,7 @@ const Skills = () => {
                         </ol>
                         <ol className='flex flex-col gap-2'>
                             <li>▶ React JS</li>
-                            <li>▶ Firebase</li>
-                            <li>▶ Framer Motion</li>
-                            <li>▶ AOS</li>
-                            <li>▶ Rechart</li>
+                            <li>▶ Firebase</li>                           
                         </ol>
                     </ul>
                 </div>
@@ -35,12 +32,9 @@ const Skills = () => {
                             <li>▶ Node Js</li>
                             <li>▶ Express Js</li>
                             <li>▶ MongoDB</li>
-                            <li>▶ Stripe Js</li>
+                            
                         </ol>
-                        <ol className='flex flex-col gap-2'>
-                            <li>▶ Rest API</li>
-                            <li>▶ Cors</li>
-                        </ol>
+                       
                     </ul>
                 </div>
             </div>

@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div id='home'>
             <header className='flex items-center justify-between py-5 px-5 md:px-0' data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0">
-                <h1 className='md:text-4xl text-2xl font-extrabold uppercase text-transparent bg-clip-text bg-gradient-to-br from-[#ee00ff] to-[#00ffc3] via-[#bf2eec] hover:via-[#00ffd5] dark:via-[#00ffd5]  hover:from-[#c800ff] hover:to-[#bf2eec]'>MD. NAEM</h1>
+                <h1 className='md:text-4xl text-2xl font-extrabold uppercase text-transparent bg-clip-text bg-gradient-to-br from-[#ee00ff] to-[#00ffc3] via-[#bf2eec] hover:via-[#00ffd5] dark:via-[#00ffd5]  hover:from-[#c800ff] hover:to-[#bf2eec]'>MD MASUD RANA</h1>
                 <div className='flex items-center gap-4'>
                     <a href="" download type="button" className="">
                         <span className='styled-button words md:text-base text-xs md:py-2 md:pt-3 pt-2 py-1 border-[#1ed2ff] hover:border-[#b3ff00] border-2 text-[#1effa9] duration-1000 px-3 md:px-4 font-semibold hover:text-white rounded-3xl bg-gradient-to-r from-[#ee00ff] to-blue-500 hover:via-[#e100ff] hover:from-[#00d0ff] hover:to-[#bf2eec] transition ease-in-out'>Download CV</span>
